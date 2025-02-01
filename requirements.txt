@@ -1,0 +1,5 @@
+torch==1.10.0
+flask==2.0.1
+pillow==8.4.0
+requests==2.26.0
+deoldify==0.0.1  # or the specific version you're using
